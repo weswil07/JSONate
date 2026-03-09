@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "jsonate"
-version = "0.9.1"
+version = "0.9.2"
 authors = [
     {name = "James Robert"},
     {email = "jiaaro@gmail.com"}
@@ -13,7 +13,7 @@ description = "Django library that can make ANYTHING into json"
 license = {text = "MIT"}
 keywords = ["django", "json", "templatetags"]
 urls = {homepage = "http://jsonate.com"}
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = ["django>=5.1.0"]
 readme = "README.md"
 classifiers= [
